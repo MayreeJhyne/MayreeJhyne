@@ -1,4 +1,4 @@
-# Hi, I'm MayreeJhyne! 👋
+# Hi, I'm Mary-Jane! 👋
 
 I am a **Data Analyst** passionate about turning raw data into actionable insights. I specialize in cleaning complex datasets and building visual stories that help drive decisions.
 
